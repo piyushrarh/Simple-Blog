@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.post-form {
+    max-width: 600px;
+    margin: auto;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    height: 120px;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#postsContainer {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.post {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+}
